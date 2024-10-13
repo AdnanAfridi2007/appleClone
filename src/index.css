@@ -39,6 +39,8 @@ canvas {
     @apply h-[calc(100vh-60px)]
   }
 
+  
+
   .btn {
     @apply px-5 py-2 rounded-3xl bg-blue my-5 hover:bg-transparent border border-transparent hover:border hover:text-blue hover:border-blue
   }
@@ -123,3 +125,7 @@ canvas {
     @apply opacity-0 translate-y-[100px]
   }
 }
+
+
+
+
